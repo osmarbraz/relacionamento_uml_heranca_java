@@ -18,7 +18,7 @@
 
 ## Arquivo do projeto
 
-O arquivo Modelo.EAP é o projetodo sistema utilizando ferramanta CASE Enterprise Arquitect.
+O arquivo Modelo.EAP é o projeto do sistema utilizando ferramanta CASE Enterprise Arquitect.
 
 ## Outros arquivos
 
